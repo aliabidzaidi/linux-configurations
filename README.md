@@ -33,6 +33,14 @@ if-shell 'env "$POWERLINE_CONFIG_COMMAND" tmux setup' '' 'run-shell "powerline-c
 
 set -g default-terminal "screen-256color"
 ```
+
+
+
+#### Default
+
+![Light theme screenshot](/assets/terminal-screenshot.PNG)
+
+
 -----------------------------------------------------------------------------------------------------
 
 ## Download install tmux
