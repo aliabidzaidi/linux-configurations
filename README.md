@@ -43,7 +43,7 @@ set -g default-terminal "screen-256color"
 
 -----------------------------------------------------------------------------------------------------
 
-## Download install tmux
+## Download install vim and configure powerline
 
 
 sudo apt install vim
