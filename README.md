@@ -38,7 +38,7 @@ set -g default-terminal "screen-256color"
 
 #### Default
 
-![Light theme screenshot](/assets/terminal-screenshot.PNG)
+![Light theme screenshot](/terminal-screenshot.PNG)
 
 
 -----------------------------------------------------------------------------------------------------
